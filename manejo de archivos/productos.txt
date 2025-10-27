@@ -1,4 +1,0 @@
-Lapicera,150.0,20
-Cuaderno,500.0,10
-Regla,100.0,15
-C,2.0,3
